@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">不再纠结</string>
+    <string name="add">ADD</string>
+    <string name="choice_title_add">创建一个组</string>
+    <string name="choice_title_edit">编辑组</string>
+    <string name="choice_title_manage">管理我的组</string>
+    <string name="choice_title_change">换一组</string>
+    <string name="menu_add">创建</string>
+    <string name="menu_manage">管理</string>
+    <string name="mene_change">换一组</string>
+</resources>

@@ -20,7 +20,10 @@ $RECYCLE.BIN/
 
 # OSX
 # =========================
-
+gen/*
+out/*
+.idea
+.gitignore
 .DS_Store
 .AppleDouble
 .LSOverride
